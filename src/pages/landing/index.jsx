@@ -20,6 +20,7 @@ const LandingPages = () => {
               <a href="index.html">
                 <img src={Img} alt="Starbucks" />
               </a>
+            <p> Dika Wakwaw </p>
             </div>
             <ul class="navbar-nav-left">
               <li>
